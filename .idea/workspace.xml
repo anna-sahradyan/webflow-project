@@ -1,21 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2e1a39e-700f-45fd-940a-37044b59cad3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webflow-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Airbnb_Logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Arrow 4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Dots.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Group_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Group_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Group_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Group_4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Illustration_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Logos.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Mask Group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Polygon 1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow down.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow up.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow-down-circle-png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/arrow-down-circle.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/circle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/coffe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_loc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_m.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon_y.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icons _ send.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/illustration_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo_footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/long_arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/man.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/men_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/menu icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qu_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/qu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sales_1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sales_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sales_3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/sales_4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ejvDC7ehD3UBdGgrmjYBd6Fbnn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="b2e1a39e-700f-45fd-940a-37044b59cad3" name="Changes" comment="" />
       <created>1708852476164</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708852476164</updated>
       <workItem from="1708852477221" duration="712000" />
+      <workItem from="1712430687523" duration="796000" />
+      <workItem from="1712438779905" duration="322000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
