@@ -3144,7 +3144,7 @@ img {
     margin-bottom: 0;
 }
 
-.white {
+.case-white {
     background-color: #c2e6ea;
     background-image: url("https://assets-global.website-files.com/660f816b3f3101ba04f3e050/660f816b3f3101ba04f3e088_circle.svg");
     background-position: 2%;
@@ -3265,7 +3265,7 @@ img {
 }
 
 .logo-text {
-    margin-top: -24px;
+    margin-top: -18px;
     padding-bottom: 0;
     font-size: 13px;
     line-height: 13px;
@@ -3403,6 +3403,7 @@ img {
     margin-top: 15px;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 50px;
     display: flex;
 }
 
@@ -3876,7 +3877,7 @@ img {
         padding-top: 42px;
     }
 
-    .case-blue, .white {
+    .case-blue, .case-white {
         background-size: 63px;
         width: 576px;
         min-height: 128px;
@@ -3936,6 +3937,7 @@ img {
     }
 
     .logo-text {
+        margin-top: -11px;
         font-size: 14px;
         line-height: 14px;
     }
@@ -3993,6 +3995,7 @@ img {
     .copy-block {
         max-width: 1018px;
         margin-top: 19px;
+        padding-bottom: 70px;
     }
 
     .copy-date-block {
@@ -4437,7 +4440,7 @@ img {
         line-height: 40px;
     }
 
-    .case-blue, .white {
+    .case-blue, .case-white {
         background-size: 72px;
         width: 655px;
         height: 146px;
@@ -4451,7 +4454,7 @@ img {
 
     .text-white {
         width: 512px;
-        margin-left: 94px;
+        margin-left: 22px;
         padding-top: 10px;
         font-size: 18px;
         line-height: 18px;
@@ -4495,6 +4498,7 @@ img {
     }
 
     .logo-text {
+        margin-top: -12px;
         font-size: 16px;
         line-height: 16px;
     }
@@ -4541,6 +4545,7 @@ img {
     .copy-block {
         max-width: 1145px;
         margin-top: 22px;
+        padding-bottom: 83px;
     }
 
     .copy-date-block {
@@ -4912,7 +4917,7 @@ img {
         height: 195px;
     }
 
-    .white {
+    .case-white {
         background-size: 96px;
         width: 875px;
         height: 195px;
@@ -4971,6 +4976,7 @@ img {
     }
 
     .logo-text {
+        margin-top: -19px;
         line-height: 24px;
     }
 
@@ -5021,6 +5027,7 @@ img {
     .copy-block {
         max-width: 1527px;
         margin-top: 61px;
+        padding-bottom: 100px;
     }
 
     .copy-date-block {
@@ -5369,7 +5376,7 @@ img {
         margin-bottom: 0;
     }
 
-    .white {
+    .case-white {
         background-size: 45px;
         width: 419px;
         margin-top: 5px;
@@ -5488,6 +5495,7 @@ img {
 
     .button {
         margin-top: 67px;
+        margin-bottom: 13px;
     }
 
     .first-box {
@@ -5508,7 +5516,7 @@ img {
     }
 
     .heading-2 {
-        margin-top: -97px;
+        margin-top: -33px;
     }
 
     .paragraph-2 {
@@ -5522,7 +5530,7 @@ img {
     }
 
     .heading-3 {
-        margin-top: 35px;
+        margin-top: 53px;
     }
 
     .div-block-4 {
@@ -5535,7 +5543,9 @@ img {
     }
 
     .text-block2 {
-        margin-bottom: 5px;
+        margin-bottom: 0;
+        padding-top: 0;
+        padding-bottom: 51px;
     }
 
     .div-block-5 {
@@ -5571,7 +5581,11 @@ img {
     }
 
     .button-2 {
+        background-position: 95%;
+        width: 198px;
         margin-top: 22px;
+        font-size: 14px;
+        line-height: 14px;
     }
 
     .container-footer-first-block {
@@ -5587,7 +5601,7 @@ img {
     }
 
     .text-block-4 {
-        margin-top: 14px;
+        margin-top: 38px;
         margin-bottom: 19px;
     }
 
@@ -5634,10 +5648,12 @@ img {
     }
 
     .servise-text {
-        text-align: left;
+        text-align: center;
         max-width: 100%;
         max-height: 100%;
         margin-top: 29px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .container-customers {
@@ -5648,7 +5664,7 @@ img {
 
     .block-founder {
         background-image: url("https://assets-global.website-files.com/660f816b3f3101ba04f3e050/660f816b3f3101ba04f3e063_Dots.svg"), url("https://assets-global.website-files.com/660f816b3f3101ba04f3e050/660f816b3f3101ba04f3e082_man.svg");
-        background-position: 100% 28%, 100% 100%;
+        background-position: 100% 29%, 100% 100%;
         background-repeat: no-repeat, no-repeat;
         background-size: auto, 592px;
         flex-flow: column;
@@ -5727,6 +5743,7 @@ img {
         justify-content: center;
         align-items: center;
         padding-top: 0;
+        padding-bottom: 11px;
         display: flex;
     }
 
@@ -5753,10 +5770,10 @@ img {
     }
 
     .case-blue {
-        background-position: 10% 5%;
+        background-position: 5% 10%;
         background-size: 60px;
         width: 100%;
-        min-height: 270px;
+        min-height: 220px;
     }
 
     .study-box {
@@ -5771,32 +5788,32 @@ img {
         margin-top: 22px;
     }
 
-    .white {
-        background-position: 10% 5%;
+    .case-white {
+        background-position: 5% 10%;
         background-size: 60px;
         width: 100%;
-        min-height: 270px;
+        min-height: 220px;
+        margin-top: 6px;
     }
 
     .heading-13 {
         margin-top: 0;
-        margin-left: 77px;
-        padding-top: 86px;
+        margin-left: 22px;
+        padding-top: 95px;
         padding-bottom: 10px;
         font-size: 18px;
         line-height: 20px;
     }
 
     .text-white {
-        width: 400px;
-        margin-left: 77px;
-        padding-top: 14px;
+        width: 80%;
+        margin-left: 22px;
         font-family: Helveticaneueroman400w, sans-serif;
     }
 
     .heading-white {
-        margin-left: 77px;
-        padding-top: 86px;
+        margin-left: 22px;
+        padding-top: 95px;
         padding-bottom: 10px;
         font-size: 18px;
         line-height: 20px;
@@ -5805,17 +5822,21 @@ img {
     .text-blue {
         width: 400px;
         margin-bottom: 0;
-        margin-left: 77px;
-        padding-top: 14px;
+        margin-left: 22px;
+        padding-top: 0;
         font-family: Helveticaneueroman400w, sans-serif;
         font-size: 16px;
         line-height: 16px;
     }
 
     .button-book {
+        background-size: 15px;
+        justify-content: flex-start;
+        align-items: center;
         margin-top: 0;
         margin-bottom: 34px;
         padding-top: 8px;
+        font-family: Helveticaneue700w, sans-serif;
     }
 
     .map-block {
@@ -5869,7 +5890,7 @@ img {
     .container-study {
         z-index: -1;
         width: 100%;
-        margin-top: 0;
+        margin-top: 70px;
         margin-left: 0;
         margin-right: 0;
     }
@@ -5911,9 +5932,8 @@ img {
     }
 
     .image-16 {
-        margin-top: -9px;
-        margin-bottom: 11px;
-        padding-top: 0;
+        margin-top: -80px;
+        margin-bottom: 12px;
         display: block;
     }
 
@@ -5934,7 +5954,7 @@ img {
         color: #fff;
         background-color: #2f2d4f;
         width: 100%;
-        margin-top: 0;
+        margin-top: -25px;
         margin-bottom: 0;
         display: block;
     }
@@ -5942,7 +5962,7 @@ img {
     .container-booking-footer {
         background-color: #f2f3f3;
         width: 100%;
-        margin-top: 44px;
+        margin-top: 70px;
         display: block;
     }
 
@@ -5952,6 +5972,7 @@ img {
         margin-top: 0;
         margin-left: auto;
         margin-right: auto;
+        padding-top: 0;
     }
 
     .mobile-booking-box {
@@ -5959,6 +5980,7 @@ img {
         margin-top: 52px;
         margin-left: auto;
         margin-right: auto;
+        padding-top: 40px;
         font-family: Helveticaneue700w, sans-serif;
         font-size: 18px;
         line-height: 20px;
@@ -5983,6 +6005,7 @@ img {
     .mobile-logo-block {
         justify-content: center;
         align-items: center;
+        padding-top: 25px;
         display: flex;
     }
 
@@ -6022,7 +6045,6 @@ img {
     .mobile-links-block {
         grid-column-gap: 11px;
         grid-row-gap: 11px;
-        border-radius: 2px;
         flex-flow: column;
         justify-content: flex-start;
         align-items: flex-start;
@@ -6039,7 +6061,7 @@ img {
     .mobile-link {
         color: #fff;
         width: 50%;
-        padding-top: 0;
+        padding-top: 12px;
         text-decoration: none;
         display: block;
     }
@@ -6047,11 +6069,12 @@ img {
     .heading-15 {
         margin-top: 15px;
         margin-bottom: -17px;
+        font-family: Helveticaneue700w, sans-serif;
         font-size: 18px;
     }
 
     .text-mobile-services {
-        margin-top: 10px;
+        margin-top: 12px;
     }
 
     .hidden-service-block {
@@ -6155,7 +6178,7 @@ img {
         height: 50px;
     }
 
-    .div-block-10 {
+    .copyright-block {
         background-image: url("https://assets-global.website-files.com/660f816b3f3101ba04f3e050/660f816b3f3101ba04f3e08e_Mask%20Group.svg");
         background-position: 50% 30%;
         background-repeat: no-repeat;
@@ -6190,20 +6213,22 @@ img {
     .heading-16 {
         margin-top: 15px;
         margin-bottom: 0;
+        font-family: Helveticaneue700w, sans-serif;
         font-size: 18px;
     }
 
     .heading-17 {
+        font-family: Helveticaneue700w, sans-serif;
         font-size: 18px;
     }
 
     .arrow-menu-down {
-        margin: 0 0 0 auto;
+        margin: 0 0 0 520px;
         padding-top: 0;
         position: relative;
         top: 41px;
         bottom: 0%;
-        left: 0%;
+        left: 0;
         right: 0%;
     }
 
@@ -6212,7 +6237,7 @@ img {
         padding-right: 0;
         position: relative;
         top: -35px;
-        left: 521px;
+        left: 520px;
         right: 0;
     }
 }
@@ -6285,7 +6310,7 @@ img {
     }
 
     .quote-block {
-        background-position: 80% 80%, 5% 0;
+        background-position: 85% 80%, 5% 0;
         background-size: 15px, 15px;
     }
 
@@ -6294,7 +6319,15 @@ img {
     }
 
     .button-2 {
+        background-position: 95%;
+        width: 198px;
         margin-top: 54px;
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    .card-text {
+        padding-top: 8px;
     }
 
     .services-box {
@@ -6302,7 +6335,7 @@ img {
     }
 
     .img-card {
-        max-width: 200px;
+        max-width: 192px;
     }
 
     .container-customers {
@@ -6324,6 +6357,7 @@ img {
     .container-technology {
         max-width: 280px;
         min-height: 460px;
+        margin-top: 71px;
     }
 
     .study-box-container {
@@ -6332,6 +6366,10 @@ img {
 
     .heading-8 {
         text-align: center;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 30px;
     }
 
     .study-img {
@@ -6341,12 +6379,15 @@ img {
     }
 
     .heading-12 {
+        margin-bottom: 49px;
         padding-top: 60px;
-        padding-bottom: 20px;
+        padding-bottom: 0;
     }
 
     .case-blue {
-        min-height: 150px;
+        background-position: 10% 10%;
+        min-height: 274px;
+        margin-bottom: 9px;
     }
 
     .study-box {
@@ -6358,16 +6399,18 @@ img {
         margin-top: 10px;
     }
 
-    .white {
-        min-height: 150px;
+    .case-white {
+        background-position: 10% 10%;
+        min-height: 274px;
+        margin-top: 9px;
         margin-bottom: 0;
         padding-bottom: 0;
     }
 
     .heading-13 {
-        margin-top: 0;
+        margin-bottom: 6px;
         margin-left: 15px;
-        padding-top: 77px;
+        padding-top: 107px;
         padding-bottom: 0;
         line-height: 18px;
     }
@@ -6378,11 +6421,13 @@ img {
         margin-right: auto;
         padding-top: 10px;
         padding-bottom: 20px;
+        line-height: 150%;
     }
 
     .heading-white {
+        margin-bottom: 6px;
         margin-left: 15px;
-        padding-top: 77px;
+        padding-top: 107px;
         padding-bottom: 0;
         line-height: 18px;
     }
@@ -6395,12 +6440,15 @@ img {
         padding-top: 10px;
         padding-bottom: 20px;
         font-size: 14px;
-        line-height: 14px;
+        line-height: 150%;
     }
 
     .button-book {
+        background-position: 95%;
+        background-size: 15px;
         margin-top: 0;
         margin-bottom: 30px;
+        font-family: Helveticaneue700w, sans-serif;
     }
 
     .customers-block {
@@ -6415,6 +6463,10 @@ img {
         width: 100%;
     }
 
+    .container-study {
+        margin-top: 60px;
+    }
+
     .nav-menu {
         margin-top: 0;
         margin-bottom: 0;
@@ -6424,6 +6476,14 @@ img {
     }
 
     .link10 {
+        margin-top: 0;
+    }
+
+    .image-16 {
+        margin-top: -86px;
+    }
+
+    .customers-card4 {
         margin-top: 0;
     }
 
@@ -6506,7 +6566,7 @@ img {
 
     .arrow-menu-down {
         padding-left: 0;
-        left: 260px;
+        left: -260px;
     }
 
     .arrow-menu-up {
